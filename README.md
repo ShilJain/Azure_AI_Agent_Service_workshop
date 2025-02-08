@@ -1,6 +1,4 @@
-# Azure_AI_Agent_Service_workshop
-
-# Workshop: Building Agents with Azure AI Agent Service SDK
+# Azure AI Agent service Workshop: Building Agents with Azure AI Agent Service SDK
  
 This workshop is designed to help you build intelligent agents using the Azure AI Agent Service SDK. You will explore the Azure AI Agent Service through both a playground experience and code-first approach. Below are the different notebooks you will work through, each providing a step-by-step guide to get you started. Please follow them in sequence.
 

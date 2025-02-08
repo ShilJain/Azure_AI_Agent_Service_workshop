@@ -4,7 +4,7 @@
  
 This workshop is designed to help you build intelligent agents using the Azure AI Agent Service SDK. You will explore the Azure AI Agent Service through both a playground experience and code-first approach. Below are the different notebooks you will work through, each providing a step-by-step guide to get you started. Please follow them in sequence.
 
-Notebooks to Get Started:
+# Notebooks to Get Started:
  
 
 1. data_reader.ipynb: This notebook leverages the code interpreter action to run Python code for data ingestion and analysis.
@@ -12,7 +12,7 @@ Notebooks to Get Started:
 3. retrieve.ipynb: This notebook employs Azure AI Agent Service's File Search knowledge source to query unstructured data.
 4. recommender.ipynb: This notebook simulates a multi-agent conversation using function calling in the AI Agent Service. It uses user-defined functions (reasoning.py and ai_search.py) to generate final recommendations by combining retrieved knowledge and advanced reasoning results using AOAI o1.
 
-
+# Storyline
 Introduction
 Imagine you are an organisation EcoPower, who is committed to delivering reliable and efficient energy utilities services". One of your mission is to empower consumers with insights into their energy usage, enabling them to save on costs and reduce their carbon footprint. You are tasked with developing a smart AI-driven agent that can help achieve this vision.
 

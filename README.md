@@ -26,6 +26,9 @@ EcoPower Solutions has a wealth of internal knowledge, including unstructured da
 ### Step 4: Delivering Personalized Recommendations
 Finally, EcoPower Solutions aims to offer personalized recommendations to each customer. By combining advanced reasoning techniques with proprietary information, your AI agent will simulate multi-agent conversations. The agent will analyze the retrieved knowledge and consumption patterns to generate tailored advice. This will help customers make informed decisions to optimize their energy usage.
 
+### Step 5: Allocating engineering resources for Maintenance of the grid
+As a resource manager at EcoPower, you may be in charge of the long term maintance of the grid. As part of your daily schedule, you may need to valdiate the different maintenance tasks that need to be completed, and allocate engineering resources to fix those issues based on their availability. Each engineer will have their own specialized skills sets, and you will need to find a way to match the right engineer to each job. In this example, you will have access to a resource manager agent that will have access to the data and instructions required to make those allocations.
+
 
 ### Conclusion :
 By the end of this workshop, you will have developed a powerful AI agent , capable of helping customers understand their energy consumption, forecast future usage, access valuable energy-saving information, and receive personalized recommendations. This AI-driven approach will not only enhance customer satisfaction but also contribute to a more sustainable future.
